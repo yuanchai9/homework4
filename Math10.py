@@ -13,7 +13,7 @@ import altair as alt
 st.set_page_config(page_title="yuan chai",page_icon=":sparkling_heart:")
 st.title(":hatching_chick: :purple_heart: :dango: :blossom: My first app :sparkling_heart: :unicorn_face: :orange_heart: :coconut: :bouquet:")
 
-st.markdown("Yuan Chai, https://github.com/yuanchai9?tab=repositories, Yile Le https://github.com/YileLi2023")
+st.markdown("Yuan Chai, https://github.com/yuanchai9?tab=repositories, Yile Li https://github.com/YileLi2023")
 
 try:
         
