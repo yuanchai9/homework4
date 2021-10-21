@@ -10,7 +10,8 @@ import streamlit as st
 import numpy as np
 import altair as alt
 
-st.title("My first app")
+st.set_page_config(page_title="yuan chai",page_icon=":sparkling_heart:")
+st.title(":hatching_chick: :purple_heart: :dango: :blossom: My first app :sparkling_heart: :unicorn_face: :orange_heart: :coconut: :bouquet:")
 
 st.markdown("Yuan Chai, https://github.com/yuanchai9?tab=repositories, Yile Le https://github.com/YileLi2023")
 
